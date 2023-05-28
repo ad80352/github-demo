@@ -2,4 +2,3 @@ Chapter1
 
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque itaque, perferendis deserunt nulla consequatur asperiores provident molestiae hic atque doloribus.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, vitae.
